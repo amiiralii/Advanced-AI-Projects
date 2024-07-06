@@ -1,4 +1,4 @@
-##NQueens Problem
+NQueens Problem
 solved by simple backtracking, forward checking, and maintaining arc consistency.
 
 How to run the code?
